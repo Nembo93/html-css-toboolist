@@ -62,13 +62,11 @@ hr{
     display: inline-block;
 }
 #spunta{
-    background-color: red;
     text-align: center;
     width: 25px;
     height: 25px;
     color: green;
-    border-width: 10px;
-    border-color: green;
+    border: solid green 1px;
     border-radius: 50%;
 }
 .editorial{
