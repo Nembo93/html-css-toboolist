@@ -1,12 +1,18 @@
 *{
     box-sizing: border-box;
 }
+header{
+    background-color: white;
+}
 body{
     background-color: lightgrey;
 }
 
 h1{
     display: inline-block;
+}
+.logo{
+    vertical-align: middle;
 }
 
 .container{
@@ -39,3 +45,40 @@ button{
 hr{
     color: lightgrey;
 }
+.titoli{
+    display: inline-block;
+    vertical-align: top;
+    margin: 0px;
+}
+.triangolino{
+    font-size: 35px;
+    vertical-align: middle;
+}
+
+.boxtitolo{
+    
+}
+.box-simboli{
+    display: inline-block;
+}
+#spunta{
+    background-color: red;
+    text-align: center;
+    width: 25px;
+    height: 25px;
+    color: green;
+    border-width: 10px;
+    border-color: green;
+    border-radius: 50%;
+}
+.editorial{
+    background-color: #45ABEA;
+}
+.targhetta{
+    padding: 5px;
+    border-radius: 10px;
+}
+
+
+/* &#10007; */
+/* &#10003; */
