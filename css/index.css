@@ -1,3 +1,5 @@
+font-family: 'Roboto', sans-serif;
+
 *{
     box-sizing: border-box;
 }
@@ -21,7 +23,9 @@ h1{
     max-width: 600px;
     margin: auto;
     margin-top: 30px;
-    border-radius: 5px;
+    border-radius: 10px;
+    padding-left: 30px;
+
 }
 button{
     border-radius: 5px;
@@ -31,7 +35,6 @@ button{
 #boxbottoni{
     padding-top: 10px;
     padding-bottom: 5px;
-    padding-left: 30px;
 }
 .bottone1{
     color: white;
@@ -59,8 +62,7 @@ hr{
 }
 
 
-
-
+/* Simboli */
 .box-simboli{
     display: inline-block;
 }
@@ -106,6 +108,7 @@ hr{
     background-color:#B0C926 ;
 }
 
+/* Margine sezioni */
 
 
 /* &#10007; */
