@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: lightgrey;
+}
+
+h1{
+    display: inline-block;
+}
+
+.container{
+    background-color: white;
+    max-width: 600px;
+    margin: auto;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+button{
+    border-radius: 5px;
+    padding: 5px;
+    border-width: 1px;
+}
+#boxbottoni{
+    padding-top: 10px;
+    padding-bottom: 5px;
+    padding-left: 30px;
+}
+.bottone1{
+    color: white;
+    background-color: #45ABEA;
+    border-color: lightblue;
+}
+.bottone2{
+    color:lightgrey;
+    border-color: lightgrey;
+    background-color: white;
+}
+hr{
+    color: lightgrey;
+}
